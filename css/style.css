@@ -173,9 +173,10 @@ header{
 	color: #eef0f3;
 	text-align: center;
 }
-.footer span{
+.footer a{
 	font-weight: 700;
 	color: #ffffff;
-	letter-spacing: 4px;
+	letter-spacing: 2px;
+	text-decoration: none;
 }
 /*footer end*/
